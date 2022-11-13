@@ -63,7 +63,7 @@
         android:padding="5dp"
         android:gravity="center"
         android:textStyle="bold"
-        android:shadowColor="#0e1728"
+        android:shadowColor="#000000"
         android:shadowDx="1"
         android:shadowDy="1"
         android:shadowRadius="20"
